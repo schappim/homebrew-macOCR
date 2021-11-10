@@ -1,4 +1,4 @@
-class MacOCR < Formula
+class Ocr < Formula
   desc "Get any text on your screen into your clipboard."
   homepage "https://github.com/schappim/macOCR"
   url "https://files.littlebird.com.au/ocr2.zip"
